@@ -1,8 +1,3 @@
-# Portfolio-Website
-
-Certainly! Below is a basic template for a `README.md` file for a Personal Portfolio website. Make sure to replace the placeholder information with your actual details.
-
-```markdown
 # Personal Portfolio Website
 
 ## Overview
@@ -25,11 +20,15 @@ You can check out the live demo of my portfolio [here](#your-live-portfolio-link
 
 ## Features
 
-About Me: Brief introduction and overview of my professional background.
-Projects: Highlights of key projects I've worked on, with details and links to each.
-Skills: List of technical skills and expertise.
-Resume: Link to my resume for detailed information about my education and work experience.
-Contact: Ways to get in touch with me, including social media and email.
+**About Me:** Brief introduction and overview of my professional background.
+
+**Projects:** Highlights of key projects I've worked on, with details and links to each.
+
+**Skills:** List of technical skills and expertise.
+
+**Resume:** Link to my resume for detailed information about my education and work experience.
+
+**Contact:** Ways to get in touch with me, including social media and email.
 
 ## Installation
 
@@ -58,17 +57,12 @@ Feel free to use this project as a template for your own personal portfolio. Cus
 - HTML
 - CSS
 - JavaScript
-- [Any additional frameworks or libraries you used]
+  
 
 
 ## Contact
 
-- Email: your.email@example.com
+- Email: kumar111aakash.in@gmaail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/feed/)
 - Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
 
-Feel free to reach out if you have any questions or just want to connect!
-
-```
-
-Make sure to replace the placeholders like `#your-live-portfolio-link`, `https://github.com/your-username/your-portfolio.git`, and others with your actual details. Additionally, update the technologies used section based on the technologies you utilized in building your portfolio.
